@@ -1,8 +1,8 @@
-## Hi there 👋
+## Olá, sou Juliana Almeida 👋
 
-- 🔭 I’m currently working on _**Avenue Code**_
-- ❤️🥰 I'm passionate about _**Technology**_
-- 📫 How to reach me: [Acesse meu Linkedin](https://www.linkedin.com/in/julianaalmeidaa)
+- :computer: Atuo como _**QA Enginner II**_  na _**Avenue Code**_ 
+- :rocket: Gosto de novas tecnologias
+- :mailbox: Onde me encontrar [Acesse meu Linkedin](https://www.linkedin.com/in/julianaalmeidaa)
 
   ![Snake animation](https://github.com/jualmeida/jualmeida/blob/output/github-contribution-grid-snake.svg)
 
