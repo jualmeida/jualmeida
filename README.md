@@ -1,5 +1,4 @@
 ## Olá! Eu sou a Juliana Almeida 
-🔭 Atualmente, estou trabalhando na @AvenueCode </p>
 💻  Atuando como QA Engineer </p>
 ⭐ Automação de testes web e api 
 
